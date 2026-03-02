@@ -1,0 +1,3 @@
+# 경제/재무 데이터 다운로드 사이트
+## 강의 설명 파워포인트 링크
+<a href="https://onedrive.live.com/?sortField=LinkFilename&isAscending=true&viewid=43639ae3%2D6efa%2D4bb4%2Dbb76%2D303964f578e2&id=%2Fpersonal%2F4dcd0da30843e6b8%2FDocuments%2Ffinancial%2Ddata%2Dsource%2Fecon%5Ffin%5Fdata%5Fsources%5Fko%2Epdf&parent=%2Fpersonal%2F4dcd0da30843e6b8%2FDocuments%2Ffinancial%2Ddata%2Dsource" download>Click to Download PDF powerpoint file</a>.
